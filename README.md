@@ -30,7 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-- [Acesse o projeto finalizado, online](https://julianascimento4.github.io/resposive/)
+- [Acesse o projeto finalizado, online](https://julianascimento4.github.io/resposive/
 
 ## :memo: Licença
 

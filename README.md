@@ -1,4 +1,4 @@
-<h1 align="center"> Página com layout responsivo </h1>
+<h1 align="center"> Página com layout responsivo</h1>
 
 <p align="center">
 Projeto com objetivo melhorar meus conhecimentos em responsividade <br/>
